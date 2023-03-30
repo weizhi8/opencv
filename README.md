@@ -1,5 +1,6 @@
-# opencv
-使用opencv-python实现的测距，测角度算法
+# 一、基于opencv-python开发的测距，测角度算法
+# opencv版本
+本人使用的是opencv4版本，使用opencv3版本的需要小小调整代码，不然会报错
 # 运行结果如下：
 ![220081684ecf99cc10a3f76d54856b8](https://user-images.githubusercontent.com/109148529/228763622-0fae22f4-bc11-472e-89c8-5bb5db0632eb.png)
 
