@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+# @Time    : 2023年3月29号
+# @Author  : LJC
+# @E-mail  : 2275716724@qq.com
 import cv2
 import math
 
