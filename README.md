@@ -1,4 +1,4 @@
-# 一、基于opencv-python开发的测距，测角度算法
+# 一、基于opencv-python开发的长度测量，角度测量算法
 # opencv版本
 本人使用的是opencv4版本，使用opencv3版本的需要小小调整代码，不然会报错
 # 运行结果如下：
